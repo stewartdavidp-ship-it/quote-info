@@ -1,0 +1,27 @@
+QUOTLE.INFO RELEASE NOTES
+==========================
+
+v1.0.0 (2025-02-07)
+--------------------
+Landing page and admin tool live.
+
+- Landing page with Firebase search — type to search 408 quotes
+- Featured quotes grid pulls top 5 by fame rating
+- Interactive demo phone mockup scrolls and updates on quote click
+- Admin tool at /admin for managing quote database
+- 408 public domain quotes from Quotle loaded into Firebase
+- Custom domain quotle.info configured
+- Fixed demo section — added missing element IDs for click handlers
+- Repo renamed from quote-info to quotle-info
+
+Next: Individual quote pages with Schema.org markup (v1.1.0)
+
+
+v0.1.0 (2025-02-06)
+--------------------
+Foundation & planning phase.
+
+- Complete documentation framework created
+- Data model, UX strategy, voice optimization planned
+- 408 quotes identified for migration from Quotle game
+- Extraction script prepared
